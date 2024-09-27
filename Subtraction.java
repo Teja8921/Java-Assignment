@@ -6,4 +6,4 @@ int b=10;
 int c=a-b;
 System.out.println("subtraction of"+a+"and"+b+"is"+c);
 }
-}
+} 
